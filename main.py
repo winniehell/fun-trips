@@ -21,7 +21,7 @@ def fetch_journeys():
         "Dresden Hbf",
         "Frankfurt (Main) Hbf",
         "Köln Hbf",
-        "Mannheim Hbf",
+        "Karlsruhe Hbf",
         "Paderborn Hbf",
         "Potsdam Hbf"
     ]
